@@ -1,0 +1,11 @@
+.footer-box p{
+    color: #71124B;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-size: .85rem;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 1.1875rem;
+    margin-top: 4rem;
+    margin-bottom: 2rem;
+}

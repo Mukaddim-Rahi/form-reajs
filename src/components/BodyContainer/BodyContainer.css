@@ -1,0 +1,14 @@
+.body-container {
+    /* background: #E5E5E5; */
+    position: relative;
+    z-index: 1;
+    
+}
+.body-container-logo{
+    z-index: 0;
+    left: 20rem;
+    position: absolute;
+}
+.body-container-form2{
+    padding-top:6.8rem;
+}

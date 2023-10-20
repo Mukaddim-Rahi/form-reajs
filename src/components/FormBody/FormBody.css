@@ -1,0 +1,264 @@
+
+.body-boxcontainer {
+    margin-top: 1rem;
+}
+
+.waterprint-text {
+    color: #71124B;
+    font-family: 'Poppins', sans-serif;
+    font-size: 3.8125rem;
+    font-weight: 700;
+    line-height: 1.1875rem;
+    margin-left: 28rem;
+
+}
+
+.body-box {
+    width: 39.875rem;
+    height: 57.5625rem;
+    border-radius: 0.6875rem;
+    background: #FFF;
+
+    margin-left: 27rem;
+}
+
+.div-body-text-header {
+    display: flex;
+    justify-content: center;
+}
+
+.body-text-header {
+    margin-top: 2.5rem;
+    width: 29.125rem;
+    height: 2.5rem;
+    color: #2C2629;
+    font-family: 'Poppins', sans-serif;
+    font-size: 1rem;
+    font-weight: 600;
+    line-height: 1.5rem;
+
+}
+
+#firstname, #lastname {
+    color: #67003E;
+    font-family: 'Poppins', sans-serif;
+    font-size: 0.875rem;
+    font-weight: 400;
+    line-height: 1.1875rem;
+
+    width: 14.125rem;
+    height: 2.3125rem;
+    border-radius: 0.25rem;
+    border: 2px solid #71124B;
+
+}
+
+.firstname {
+    margin-left: 90px;
+    color: #67003E;
+    font-family: 'Poppins', sans-serif;
+    font-size: 0.875rem;
+    font-weight: 700;
+
+}
+
+.lastname {
+    margin-left: 10px;
+
+    color: #67003E;
+    font-family: 'Poppins', sans-serif;
+    font-size: 0.875rem;
+    font-weight: 700;
+}
+
+.Username {
+    margin-top: 2rem;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: none;
+
+}
+
+.mail-box {
+    margin-top: 1.6rem;
+    color: #67003E;
+    font-family: 'Poppins', sans-serif;
+    font-size: 0.875rem;
+    font-weight: 700;
+    margin-left: 90px;
+
+}
+
+#emailadd{
+    width: 29.125rem;
+    height: 2.3125rem;
+    font-family: 'Poppins', sans-serif;
+    font-size: 0.875rem;
+    font-weight: 700;
+    border-radius: 0.25rem;
+    border: 2px solid #71124B;
+
+}
+
+.contact-box {
+    margin-top: 2rem;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: none;
+    
+
+}
+
+#option{
+    color: #2C2629;
+    font-family: 'Poppins', sans-serif;
+    font-size: 0.75rem;
+    font-weight: 400;
+    line-height: 1.5rem;
+
+    width: 14.5rem;
+    height: 2.3125rem;
+    border-radius: 0.25rem;
+    border: 2px solid #71124B;
+
+
+}
+.form-box form label[for="option"] {
+    color: #67003E;
+    font-family: 'Poppins', sans-serif;
+    font-size: 0.875rem;
+    font-weight: 700;
+    line-height: 1.1875rem;
+
+}
+
+#contact-box{
+    width: 14.125rem;
+    height: 2.3125rem;
+    border-radius: 0.25rem;
+    border: 2px solid #71124B;
+
+}
+
+.form-box form label[for="contact-box"] {
+
+    color: #67003E;
+    font-family: 'Poppins', sans-serif;
+    font-size: 0.875rem;
+    font-weight: 700;
+    line-height: 1.1875rem;
+}
+
+.phn-number {
+    margin-left: 90px;
+
+}
+
+.contact-mathod {
+    margin-left: 10px;
+}
+
+.checkbox-container {
+    margin-top: 2rem;
+    margin-left: 90px;
+    margin-bottom: 10px;
+
+}
+
+.checkbox-text-header {
+    width: 8.375rem;
+    height: 1.0625rem;
+    color: #67003E;
+    font-family: 'Poppins', sans-serif;
+    font-size: 0.875rem;
+    font-weight: 700;
+    line-height: 1.1875rem;
+}
+
+.checkbox-text {
+    color: #2C2629;
+    font-family: 'Poppins', sans-serif;
+    font-size: 0.75rem;
+    font-weight: 400;
+    line-height: 1.5rem;
+    margin-bottom: 10px;
+
+}
+
+.checkbox-action input[type="checkbox"] {
+    width: 1.25rem;
+    height: 1.25rem;
+    border-radius: 0.25rem;
+    border: 2px solid #71124B;
+}
+
+.checkbox-label {
+    /* margin-top: 0px !important; */
+    color: #2C2629;
+    font-family: 'Poppins', sans-serif;
+    font-size: 0.75rem;
+    font-weight: 600;
+    line-height: 1.5rem;
+}
+
+.note-container {
+    margin-top: 2rem;
+}
+
+h1 {
+
+    margin-left: 90px;
+
+    color: #67003E;
+    font-family: 'Poppins', sans-serif;
+    font-size: 0.875rem;
+    font-weight: 600;
+    line-height: 1.1875rem;
+
+
+}
+
+.note-text {
+    margin-top: 5px;
+    margin-left: 90px;
+    width: 29.0625rem;
+    color: #2C2629;
+    font-family: 'Poppins', sans-serif;
+    font-size: 0.75rem;
+    font-weight: 600;
+    line-height: 1.25rem;
+}
+.note-box {
+    margin-top: 5px;
+    margin-left: 90px;
+    width: 29.125rem;
+    height: 8rem;
+    border-radius: 0.25rem;
+    border: 2px solid #71124B;
+}
+
+.button-box {
+    display: flex;
+    justify-content: center;
+}
+
+
+#submit-button{
+    margin-top: 2rem;
+    color: #FFF;
+    text-align: center;
+    font-family: Rowdies;
+    font-size: 0.875rem;
+
+    font-weight: 400;
+    line-height: 1.1875rem;
+
+    width: 5.875rem;
+    height: 2.3125rem;
+
+
+    border-radius: 0.25rem;
+    border: 2px solid #71124B;
+    background: #67003E;
+    cursor: pointer;
+}
